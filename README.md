@@ -33,6 +33,11 @@ fastapi-supabase-app
 └── README.md             # Project documentation
 ```
 
+## DB
+stored hashed password
+<img width="1080" alt="Screenshot 2025-01-16 at 20 15 39" src="https://github.com/user-attachments/assets/71ccea9d-67f9-4b66-9d8a-72852d88ed71" />
+
+
 ## Installation
 
 1. Clone the repository:
